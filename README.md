@@ -8,9 +8,9 @@ This project is mainly designed for academic and learning purposes, helping stud
 
 👨‍💻 Authors
 
-Charitesh
-
 Vemuri Asrith Naidu
+
+charithesh
 
 Department: Computer Science and Engineering
 Institute: PVP Siddhartha Institute of Technology
