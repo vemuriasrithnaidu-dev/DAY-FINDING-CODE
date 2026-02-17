@@ -3,7 +3,7 @@
                        DAY FINDER PROGRAM IN C
 --------------------------------------------------------------------
 
-Authors     : <CHARITESH>, <ASRITH>
+Authors     : <ASRITH>
 Language    : C
 Project     : Date – Day Calculator
 Description :
